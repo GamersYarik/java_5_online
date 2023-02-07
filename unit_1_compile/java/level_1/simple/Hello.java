@@ -17,5 +17,18 @@ class Hello {
         System.out.println("iMin = " + iMin);
         System.out.println("lMax = " + lMax);
         System.out.println("lMin = " + lMin);
+
+        System.out.println();
+
+        System.out.println("Integer max value + 1 = " + iMax + 1);
+
+        float f;
+        double d;
+
+        char c;
+
+        boolean bb;
+
+        char[] chars;
     }
 }
